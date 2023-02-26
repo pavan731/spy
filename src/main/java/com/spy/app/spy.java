@@ -1,3 +1,5 @@
+package com.spy.app;
+
 public class spy {
 	
 	public static boolean spyy( int a){
